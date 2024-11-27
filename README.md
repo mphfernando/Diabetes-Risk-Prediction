@@ -5,10 +5,15 @@ This repository contains a data science and machine learning project aimed at pr
 # Features
 
 Data Preprocessing: Includes handling missing data, encoding categorical variables, and feature engineering.
+
 Exploratory Data Analysis: Analyzes class and feature distributions to identify patterns.
+
 Correlation Analysis: Identifies relationships between symptoms and diabetes risk through heatmaps and statistical measures.
+
 Clustering: Implements k-means clustering with an optimal number of clusters determined using the elbow method.
+
 Classification: Builds and evaluates a decision tree classifier, measuring performance through precision, recall, F1 score, and accuracy.
+
 Data Visualizations:
 Correlation heatmap
 Scatter plot (Age vs Gender)
